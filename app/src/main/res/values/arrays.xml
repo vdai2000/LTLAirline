@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="id_activityScreenTitles">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Home</item>
+        <item>My profile</item>
+        <item>Booking</item>
+        <item>History booking</item>
+        <item></item>
+        <item>Log out</item>
+
+
+    </string-array>
+
+    <string-array name="id_activityScreenIcons">
+        <item>0</item>
+        <item>@drawable/close</item>
+        <item>0</item>
+        <item>@drawable/dashboard</item>
+        <item>@drawable/profilemenu</item>
+        <item>@drawable/settings</item>
+        <item>@drawable/information</item>
+        <item>0</item>
+        <item>@drawable/logout</item>
+    </string-array>
+
+    <string-array name="id_SanBay">
+        <item>TSN</item>
+        <item>NB</item>
+        <item>SG</item>
+    </string-array>
+
+</resources>

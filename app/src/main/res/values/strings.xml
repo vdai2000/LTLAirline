@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="noidi">Nơi Đi</string>
+    <string name="noiden">Nơi Đến</string>
+    <string name="ngaydi">Ngày Đi</string>
+    <string name="ngayve">Ngày Về</string>
+    <string name="nguoitren12">Người Lớn(> 12 Tuổi)</string>
+    <string name="nguoiduoi12">Người Lớn( 2-12 Tuổi)</string>
+    <string name="trenho">Trẻ em dưới 2 Tuổi</string>
+</resources>
